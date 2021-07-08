@@ -6,7 +6,10 @@ const options = {
       version: '1.0.0',
     },
     servers: [
-      { url: `http://localhost:${process.env.PORT || 4000}` },
+      {
+        url: `http://localhost:${process.env.PORT || 4000}`,
+        description: 'Development server',
+      },
     ],
     components: {
       securitySchemes: {
