@@ -2,7 +2,7 @@ const options = {
   swaggerDefinition: {
     openapi: '3.0.1',
     info: {
-      title: 'Dailytasks API',
+      title: 'API Documentation', // Name of your api.
       version: '1.0.0',
     },
     servers: [
