@@ -1,6 +1,6 @@
 # API Folder Structure and Setup.
 
-This is a Node, express and mongodb API folder structure<br> and setup for a medium and more importantly large application<br> with a number of developers. This project setup comes with a documentation <br> config using swagger openapi and jsdoc. This project gives you a robust folder <br>structure for your next API. 🙂 Happy hacking.
+This is a Node, express and mongodb API folder structure<br> and setup for a medium and more importantly large application<br> with a number of developers. This project setup comes with a documentation <br> configured using swagger openapi and jsdoc. This project gives you a robust folder <br>structure for your next API. 🙂 Happy hacking.
 
 ## Contributing Guide.
 
