@@ -4,7 +4,8 @@
  * you will do something like this, const { User } = require("../models")
  * instead of const { User } = require("../models/User.model")
  */
+const User = require('./User.model');
 
 module.export = {
-  User: require("./User.model"),
+  User,
 };
