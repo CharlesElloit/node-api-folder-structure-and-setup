@@ -13,7 +13,7 @@ Your contributation will <br> be highly appreciatived.
 
 The documentation is using swagger openapi and jsdoc for documenting
 the <br> api. For more about how the swagger openapi works check here: [`swagger`](https://swagger.io/specification/). <br>
-Check the api docs for this project here: [`api-docs`](http://localhost:4000/api-docs), just make your server runing <br> before access the link.
+Check the api docs for this project here: [`api-docs`](http://localhost:4000/api-docs), just make sure your server runing <br> before access the link.
 
 ## Technologies
 
